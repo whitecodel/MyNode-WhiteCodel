@@ -1,0 +1,137 @@
+[
+  {
+    "identifier": "HAHAHA-5c4481-c9",
+    "collection": "HAHAHA-5c4481",
+    "attributes": "dGFnczp0YWcxLHRhZzIsaGFoYWhhO21ldGFkYXRhOmJhZnliZWlob2Y2bjJiNGdrYWhuMm53ZmhjeGU3Mmt2bXM0bzV1ZXZjb2s1Y2h2ZzZmMnpwZnNpNmhxLzIwNC5qc29u",
+    "nonce": 201,
+    "type": "NonFungibleESDT",
+    "name": "Hahahahaha #204",
+    "creator": "erd1qqqqqqqqqqqqqpgq5maff85xn0t3r8wr3zn4vhthej9c2ne2gtks8u4tr3",
+    "royalties": 5,
+    "uris": [
+      "aHR0cHM6Ly9pcGZzLmlvL2lwZnMvYmFmeWJlaWJpbXFvbjRwam01NHgyN242d2U1cW9oeDU3Z2Q2bjJtbmJreHUycjZuZWpwM25iZW5rN3UvMjA0LnBuZw==",
+      "aHR0cHM6Ly9pcGZzLmlvL2lwZnMvYmFmeWJlaWhvZjZuMmI0Z2thaG4ybndmaGN4ZTcya3ZtczRvNXVldmNvazVjaHZnNmYyenBmc2k2aHEvMjA0Lmpzb24="
+    ],
+    "url": "https://devnet-media.elrond.com/nfts/asset/bafybeibimqon4pjm54x27n6we5qohx57gd6n2mnbkxu2r6nejp3nbenk7u/204.png",
+    "media": [
+      {
+        "url": "https://devnet-media.elrond.com/nfts/asset/bafybeibimqon4pjm54x27n6we5qohx57gd6n2mnbkxu2r6nejp3nbenk7u/204.png",
+        "originalUrl": "https://ipfs.io/ipfs/bafybeibimqon4pjm54x27n6we5qohx57gd6n2mnbkxu2r6nejp3nbenk7u/204.png",
+        "thumbnailUrl": "https://devnet-media.elrond.com/nfts/thumbnail/HAHAHA-5c4481-d3aa805f",
+        "fileType": "image/png",
+        "fileSize": 1262
+      }
+    ],
+    "isWhitelistedStorage": true,
+    "tags": ["tag1", "tag2", "hahaha"],
+    "metadata": {
+      "name": "#204",
+      "description": "TestWeirdFaces",
+      "edition": 204,
+      "attributes": [
+        { "trait_type": "face", "value": "face5" },
+        { "trait_type": "head", "value": "head3" },
+        { "trait_type": "eyes", "value": "eyes6" }
+      ],
+      "tags": "faces,test,weird,stuff",
+      "image": {
+        "href": "https://ipfs.io/ipfs/bafybeibimqon4pjm54x27n6we5qohx57gd6n2mnbkxu2r6nejp3nbenk7u/204.png",
+        "hash": "1e4fbe7dc9902052b577bd7d4a586286b9b29310f9e03569c3edcc4b8b6aeb6e",
+        "ipfsUri": "ipfs://bafybeibimqon4pjm54x27n6we5qohx57gd6n2mnbkxu2r6nejp3nbenk7u/204.png",
+        "ipfsCid": "bafybeibimqon4pjm54x27n6we5qohx57gd6n2mnbkxu2r6nejp3nbenk7u",
+        "fileName": "204.png"
+      }
+    },
+    "ticker": "HAHAHA-5c4481"
+  },
+  {
+    "identifier": "HAHAHA-5c4481-ca",
+    "collection": "HAHAHA-5c4481",
+    "attributes": "dGFnczp0YWcxLHRhZzIsaGFoYWhhO21ldGFkYXRhOmJhZnliZWlob2Y2bjJiNGdrYWhuMm53ZmhjeGU3Mmt2bXM0bzV1ZXZjb2s1Y2h2ZzZmMnpwZnNpNmhxLzI5Lmpzb24=",
+    "nonce": 202,
+    "type": "NonFungibleESDT",
+    "name": "Hahahahaha #29",
+    "creator": "erd1qqqqqqqqqqqqqpgq5maff85xn0t3r8wr3zn4vhthej9c2ne2gtks8u4tr3",
+    "royalties": 5,
+    "uris": [
+      "aHR0cHM6Ly9pcGZzLmlvL2lwZnMvYmFmeWJlaWJpbXFvbjRwam01NHgyN242d2U1cW9oeDU3Z2Q2bjJtbmJreHUycjZuZWpwM25iZW5rN3UvMjkucG5n",
+      "aHR0cHM6Ly9pcGZzLmlvL2lwZnMvYmFmeWJlaWhvZjZuMmI0Z2thaG4ybndmaGN4ZTcya3ZtczRvNXVldmNvazVjaHZnNmYyenBmc2k2aHEvMjkuanNvbg=="
+    ],
+    "url": "https://devnet-media.elrond.com/nfts/asset/bafybeibimqon4pjm54x27n6we5qohx57gd6n2mnbkxu2r6nejp3nbenk7u/29.png",
+    "media": [
+      {
+        "url": "https://devnet-media.elrond.com/nfts/asset/bafybeibimqon4pjm54x27n6we5qohx57gd6n2mnbkxu2r6nejp3nbenk7u/29.png",
+        "originalUrl": "https://ipfs.io/ipfs/bafybeibimqon4pjm54x27n6we5qohx57gd6n2mnbkxu2r6nejp3nbenk7u/29.png",
+        "thumbnailUrl": "https://devnet-media.elrond.com/nfts/thumbnail/HAHAHA-5c4481-d00e3eaf",
+        "fileType": "image/png",
+        "fileSize": 1311
+      }
+    ],
+    "isWhitelistedStorage": true,
+    "tags": ["tag1", "tag2", "hahaha"],
+    "metadata": {
+      "name": "#29",
+      "description": "TestWeirdFaces",
+      "edition": 29,
+      "attributes": [
+        { "trait_type": "face", "value": "face2" },
+        { "trait_type": "head", "value": "head3" },
+        { "trait_type": "eyes", "value": "eyes3" }
+      ],
+      "tags": "faces,test,weird,stuff",
+      "image": {
+        "href": "https://ipfs.io/ipfs/bafybeibimqon4pjm54x27n6we5qohx57gd6n2mnbkxu2r6nejp3nbenk7u/29.png",
+        "hash": "453fa9b0b735a556cebc7940606e61adf1cc754e6bbb1b9c313e02d4207959dd",
+        "ipfsUri": "ipfs://bafybeibimqon4pjm54x27n6we5qohx57gd6n2mnbkxu2r6nejp3nbenk7u/29.png",
+        "ipfsCid": "bafybeibimqon4pjm54x27n6we5qohx57gd6n2mnbkxu2r6nejp3nbenk7u",
+        "fileName": "29.png"
+      }
+    },
+    "ticker": "HAHAHA-5c4481"
+  },
+  {
+    "identifier": "HAHAHA-5c4481-cb",
+    "collection": "HAHAHA-5c4481",
+    "attributes": "dGFnczp0YWcxLHRhZzIsaGFoYWhhO21ldGFkYXRhOmJhZnliZWlob2Y2bjJiNGdrYWhuMm53ZmhjeGU3Mmt2bXM0bzV1ZXZjb2s1Y2h2ZzZmMnpwZnNpNmhxLzI5MC5qc29u",
+    "nonce": 203,
+    "type": "NonFungibleESDT",
+    "name": "Hahahahaha #290",
+    "creator": "erd1qqqqqqqqqqqqqpgq5maff85xn0t3r8wr3zn4vhthej9c2ne2gtks8u4tr3",
+    "royalties": 5,
+    "uris": [
+      "aHR0cHM6Ly9pcGZzLmlvL2lwZnMvYmFmeWJlaWJpbXFvbjRwam01NHgyN242d2U1cW9oeDU3Z2Q2bjJtbmJreHUycjZuZWpwM25iZW5rN3UvMjkwLnBuZw==",
+      "aHR0cHM6Ly9pcGZzLmlvL2lwZnMvYmFmeWJlaWhvZjZuMmI0Z2thaG4ybndmaGN4ZTcya3ZtczRvNXVldmNvazVjaHZnNmYyenBmc2k2aHEvMjkwLmpzb24="
+    ],
+    "url": "https://devnet-media.elrond.com/nfts/asset/bafybeibimqon4pjm54x27n6we5qohx57gd6n2mnbkxu2r6nejp3nbenk7u/290.png",
+    "media": [
+      {
+        "url": "https://devnet-media.elrond.com/nfts/asset/bafybeibimqon4pjm54x27n6we5qohx57gd6n2mnbkxu2r6nejp3nbenk7u/290.png",
+        "originalUrl": "https://ipfs.io/ipfs/bafybeibimqon4pjm54x27n6we5qohx57gd6n2mnbkxu2r6nejp3nbenk7u/290.png",
+        "thumbnailUrl": "https://devnet-media.elrond.com/nfts/thumbnail/HAHAHA-5c4481-c79c4df1",
+        "fileType": "image/png",
+        "fileSize": 1309
+      }
+    ],
+    "isWhitelistedStorage": true,
+    "tags": ["tag1", "tag2", "hahaha"],
+    "metadata": {
+      "name": "#290",
+      "description": "TestWeirdFaces",
+      "edition": 290,
+      "attributes": [
+        { "trait_type": "face", "value": "face4" },
+        { "trait_type": "head", "value": "head1" },
+        { "trait_type": "eyes", "value": "eyes3" }
+      ],
+      "tags": "faces,test,weird,stuff",
+      "image": {
+        "href": "https://ipfs.io/ipfs/bafybeibimqon4pjm54x27n6we5qohx57gd6n2mnbkxu2r6nejp3nbenk7u/290.png",
+        "hash": "e71e484f4278342c4e626f53b7144c7a557114d8c39dca3a6de7e0b51cb0426f",
+        "ipfsUri": "ipfs://bafybeibimqon4pjm54x27n6we5qohx57gd6n2mnbkxu2r6nejp3nbenk7u/290.png",
+        "ipfsCid": "bafybeibimqon4pjm54x27n6we5qohx57gd6n2mnbkxu2r6nejp3nbenk7u",
+        "fileName": "290.png"
+      }
+    },
+    "ticker": "HAHAHA-5c4481"
+  }
+]
