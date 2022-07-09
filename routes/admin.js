@@ -1,7 +1,7 @@
 const router = require("express").Router();
-const { adminView, adminCreate } = require("../controllers/adminController");
+const AdminController = require("../controllers/adminController");
 
-router.get("/", adminView);
-router.get("/create", adminCreate);
+router.get("/", AdminController.adminView);
+router.get("/create", AdminController.adminCreate);
 
 module.exports = router;
