@@ -1,9 +1,8 @@
-const adminView = (req, res) => {
-  res.send("Hello World! From the admin view route");
+module.exports = {
+  adminView: (req, res) => {
+    res.send("admin view");
+  },
+  adminCreate: (req, res) => {
+    res.send("admin create");
+  },
 };
-
-const adminCreate = (req, res) => {
-  res.send("Hello World! From the admin create route");
-};
-
-module.exports = { adminView, adminCreate };
