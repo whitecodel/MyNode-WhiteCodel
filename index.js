@@ -2,9 +2,9 @@ const express = require("express");
 const app = express();
 require("dotenv").config();
 
-app.get("/", (req, res) => {
-  res.send("Hello World!");
-});
+const routerF = require("./routes");
+
+routerF(app);
 
 // listen for requests :)
 const listener = app.listen(process.env.PORT, () => {
