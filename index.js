@@ -4,6 +4,8 @@ require("dotenv").config();
 
 const routerF = require("./routes");
 
+app.use(express.json());
+
 routerF(app);
 
 // listen for requests :)
