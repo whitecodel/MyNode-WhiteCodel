@@ -1,5 +1,3 @@
-const jwt = require("jsonwebtoken");
-
 class UserController {
   static login = async (req, res) => {
     try {
@@ -26,6 +24,31 @@ class UserController {
 
       // send token
       res.send(token);
+    } catch (error) {
+      console.log(error);
+      return res.status(500).send("Server error");
+    }
+  };
+
+  static list = async (req, res) => {
+    try {
+      // now get user
+      console.log(req.user);
+
+      const users = [
+        {
+          _id: 1,
+          username: "admin",
+          password: "admin",
+        },
+        {
+          _id: 2,
+          username: "admin2",
+          password: "admin2",
+        },
+      ];
+
+      res.send(users);
     } catch (error) {
       console.log(error);
       return res.status(500).send("Server error");
